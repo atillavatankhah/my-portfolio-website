@@ -3,7 +3,7 @@ const portfolioItems = [
     {
         id: 1,
         title: 'Chess Game',
-        category: 'web'
+        category: 'web',
         image: 'images/chess.JPG',
         description: 'An interactive chess game built with HTML, CSS, and JavaScript. Features include move validation, piece highlighting, and game state tracking.',
         link: 'https://atillavatankhah.github.io/chess-game/'
