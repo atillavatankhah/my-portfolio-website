@@ -10,7 +10,7 @@ const portfolioItems = [
     },
     {
         id: 2,
-        title: 'Weather App',
+        title: 'Ping Pong',
         category: 'app',
         image: 'images/ping-pong.JPG',
         description: 'A real-time weather application that provides current weather conditions, forecasts, and location-based updates.',
