@@ -2,21 +2,36 @@
 const portfolioItems = [
     {
         id: 1,
-        title: 'Project 1',
+        title: 'Chess Game',
         category: 'web',
-        image: 'images/project1.jpg',
-        description: 'A responsive website built with HTML, CSS, and JavaScript.',
-        link: '#'
+        image: 'images/chess.jpg',
+        description: 'An interactive chess game built with HTML, CSS, and JavaScript. Features include move validation, piece highlighting, and game state tracking.',
+        link: 'https://atillavatankhah.github.io/chess-game/'
     },
     {
         id: 2,
-        title: 'Project 2',
+        title: 'Weather App',
         category: 'app',
-        image: 'images/project2.jpg',
-        description: 'A mobile application developed with modern technologies.',
-        link: '#'
+        image: 'images/weather.jpg',
+        description: 'A real-time weather application that provides current weather conditions, forecasts, and location-based updates.',
+        link: 'https://github.com/yourusername/weather-app'
     },
-    // Add more portfolio items as needed
+    {
+        id: 3,
+        title: 'E-commerce Website',
+        category: 'web',
+        image: 'images/ecommerce.jpg',
+        description: 'A fully responsive e-commerce platform with product catalog, shopping cart, and checkout functionality.',
+        link: 'https://github.com/yourusername/ecommerce-site'
+    },
+    {
+        id: 4,
+        title: 'Task Manager',
+        category: 'app',
+        image: 'images/task-manager.jpg',
+        description: 'A productivity app for managing daily tasks, setting reminders, and tracking progress.',
+        link: 'https://atillavatankhah.github.io/chess-game/'
+    }
 ];
 
 // Mobile Navigation

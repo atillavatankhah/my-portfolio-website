@@ -237,6 +237,49 @@ body {
     margin: 0 auto;
 }
 
+.portfolio-item {
+    background: var(--white);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: var(--transition);
+}
+
+.portfolio-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.portfolio-item img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-bottom: 1px solid #eee;
+}
+
+.portfolio-info {
+    padding: 1.5rem;
+}
+
+.portfolio-info h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-color);
+}
+
+.portfolio-info p {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+    line-height: 1.5;
+}
+
+.portfolio-info .btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+}
+
 /* Contact Section */
 .contact {
     padding: 5rem 5%;
