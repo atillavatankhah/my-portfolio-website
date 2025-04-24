@@ -12,9 +12,9 @@ const portfolioItems = [
         id: 2,
         title: 'Weather App',
         category: 'app',
-        image: 'images/weather.jpg',
+        image: 'images/ping-pong.JPG',
         description: 'A real-time weather application that provides current weather conditions, forecasts, and location-based updates.',
-        link: 'https://github.com/yourusername/weather-app'
+        link: 'https://atillavatankhah.github.io/ping-pong'
     },
     {
         id: 3,
