@@ -13,24 +13,24 @@ const portfolioItems = [
         title: 'Ping Pong',
         category: 'app',
         image: 'images/ping-pong.JPG',
-        description: 'A real-time weather application that provides current weather conditions, forecasts, and location-based updates.',
+        description: 'An interactive ping pong game built with HTML, CSS, and JavaScript. Features include realistic paddle movement, ball physics, score tracking, and multiplayer support.',
         link: 'https://atillavatankhah.github.io/ping-pong'
     },
     {
         id: 3,
-        title: 'E-commerce Website',
+        title: 'Snake Game',
         category: 'web',
-        image: 'images/ecommerce.jpg',
-        description: 'A fully responsive e-commerce platform with product catalog, shopping cart, and checkout functionality.',
-        link: 'https://github.com/yourusername/ecommerce-site'
+        image: 'images/snake-game.JPG',
+        description: 'A snake game built with HTML, CSS, and JavaScript. Features include snake movement, food generation, and game over screen.',
+        link: ' https://atillavatankhah.github.io/snake-game/'
     },
     {
         id: 4,
-        title: 'Task Manager',
+        title: 'car-game',
         category: 'app',
-        image: 'images/task-manager.jpg',
-        description: 'A productivity app for managing daily tasks, setting reminders, and tracking progress.',
-        link: 'https://atillavatankhah.github.io/chess-game/'
+        image: 'images/car-game.JPG',
+        description: 'A car game built with HTML, CSS, and JavaScript. Features include car movement, obstacles, and game over screen.',
+        link: 'https://atillavatankhah.github.io/car-game/'
     }
 ];
 
